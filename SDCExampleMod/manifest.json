@@ -1,0 +1,13 @@
+﻿{
+   "Name": "SDCExampleMod",
+   "Author": "avarisc",
+   "Version": {
+      "MajorVersion": 0,
+      "MinorVersion": 0,
+      "PatchVersion": 1,
+      "Build": null
+   },
+   "Description": "Demonstrates usage and features of the StardewCustoms mod.",
+   "UniqueID": "avarisc.SDCExampleMod",
+   "EntryDll": "SDCExampleMod.dll"
+}
