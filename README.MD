@@ -2,7 +2,7 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/avarisc/StardewCustoms/total.svg)]()
 [![GitHub issues](https://img.shields.io/github/issues/avarisc/StardewCustoms.svg)]()
-[![license](https://img.shields.io/github/license/avarisc/StardewCustoms.svg)]()\
+[![license](https://img.shields.io/github/license/avarisc/StardewCustoms.svg)]()
 [![GitHub forks](https://img.shields.io/github/forks/avarisc/StardewCustoms.svg)](https://github.com/avarisc/StardewCustoms/network)
 [![GitHub stars](https://img.shields.io/github/stars/avarisc/StardewCustoms.svg)](https://github.com/avarisc/StardewCustoms/stargazers)
 
