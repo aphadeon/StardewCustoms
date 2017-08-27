@@ -1,0 +1,13 @@
+﻿{
+   "Name": "StardewCustoms",
+   "Author": "avarisc",
+   "Version": {
+      "MajorVersion": 0,
+      "MinorVersion": 0,
+      "PatchVersion": 1,
+      "Build": null
+   },
+   "Description": "Simplifies the creation of custom content.",
+   "UniqueID": "avarisc.StardewCustoms",
+   "EntryDll": "StardewCustoms.dll"
+}
